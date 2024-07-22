@@ -12,7 +12,7 @@ public class sample1 {
 	@Test
 	public void m2()
 	{
-	Reporter.log("Running Tc2 change from github",true);
+	Reporter.log("Running Tc2",true);
 	}
 	
 
