@@ -14,6 +14,6 @@ public class sample1 {
 	{
 	Reporter.log("Running Tc2",true);
 	}
-	System.out.println("This is change from github repository");
+	Reporter.log("This is change from github repository",true);
 
 }
