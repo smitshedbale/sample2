@@ -12,8 +12,8 @@ public class sample1 {
 	@Test
 	public void m2()
 	{
-	Reporter.log("Running Tc2",true);
+	Reporter.log("Running Tc2 change from repository",true);
 	}
-	Reporter.log("This is change from github repository",true);
+	
 
 }
